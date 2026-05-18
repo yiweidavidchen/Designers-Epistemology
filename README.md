@@ -1,5 +1,5 @@
 # Designers-Epistemology
-A research mentorship framework for developing the designer's posture — understanding through inhabitation, theory through need, and learning through real stakes. Built with Sonnet 4.6.
+A research mentorship framework for developing the designer's posture — understanding through inhabitation, theory through need, and learning through real stakes. Built with Claude Sonnet 4.6.
 
 **For developing the designer's posture.**
 
