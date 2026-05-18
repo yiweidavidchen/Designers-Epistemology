@@ -134,14 +134,14 @@ Each entry follows the pattern:
 
 | Domain | Entry Point Resource | Directed Question |
 |---|---|---|
-| Amino acid side chain chemistry | Lehninger Ch. 3 or equivalent; PyMOL visualization of residue | *Look at what that side chain actually looks like at pH 7. What does removing it change about anything nearby?* |
+| Amino acid side chain chemistry | Lehninger Ch. 3 or equivalent; Foldit/PyMOL visualization of residue | *Look at what that side chain actually looks like at pH 7. What does removing it change about anything nearby?* |
 | Active site electrostatics | Warshel 2006 review on electrostatic effects in enzymes | *If you change the charge at this position, what happens to the transition state stabilization? How would you know?* |
 | Hydrogen bond networks | Foldit/PyMOL H-bond display of WT active site | *Trace every hydrogen bond your target residue participates in. What breaks if you mutate it? What might compensate?* |
 | Michaelis-Menten assumptions | Fersht *Structure and Mechanism in Protein Science* Ch. 4 | *Under what conditions does the Michaelis-Menten model break down? Is your experiment inside those conditions?* |
 | Substrate binding geometry | PDB structure of BglB with substrate analog; Ligplot+ | *Where does the substrate sit relative to the catalytic residues? What does your mutation change about that geometry?* |
 | Thermal stability and ΔTm | Niesen et al. 2007 (DSF protocol paper) | *Your mutant has a lower Tm. What are the possible explanations? Which ones would change your interpretation of the kinetics?* |
 | Interpreting kinetic curves | Cornish-Bowden *Fundamentals of Enzyme Kinetics* | *Your Km went up and kcat stayed the same. Tell me in mechanistic terms what that means. Now tell me three things that could cause it.* |
-| Statistical interpretation | Motulsky *Intuitive Biostatistics* | *Your p-value is 0.04. What can you actually conclude? What can you not conclude?* |
+| Statistical interpretation | Motulsky *Intuitive Biostatistics* | *Your p-value is 0.04. What can you actually conclude? What can you not conclude? Your p-value is 0.051, are you really going to keep the hypothesis just because of 0.001 difference to 0.05?* |
 
 *This map is a starting point, not a complete inventory. Expand it as you encounter new conceptual walls with mentees.*
 
