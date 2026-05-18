@@ -79,6 +79,11 @@ I thought mutations in the catalytic machinery would lead to more intense change
 
 OK. 11 mutants + WT. Executable with 2 rounds of protein production and assaying. Saves time.
 
+**An early screenshot of mutant selection:**
+
+<img width="835" height="1118" alt="image" src="https://github.com/user-attachments/assets/4279cebb-601f-4a19-b325-65d35e8202c0" />
+
+
 ---
  
 ## Why These Substrates
