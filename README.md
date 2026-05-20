@@ -25,6 +25,22 @@ It applies to any domain structured around design under uncertainty. Enzyme engi
 
 ---
 
+## On Understanding
+
+From the moment I first began conceptualizing this until the point where I reached this very spot in my writing, a specific Chinese word suddenly came to mind:
+
+匠人 (jiàngrén in Mandarin). The master craftsperson whose understanding lives in their hands and their judgment, not just their knowledge.
+
+Many people today would say that being a 匠人 is not a valuable occupation. That mastery through apprenticeship is slow, unscalable, archaic. That the future belongs to whoever can most efficiently extract and apply information.
+
+I think that gets it exactly backwards. The person who truly understands — not just grasps the literal meaning, but can make decisions under uncertainty, reconstruct their reasoning when reality disagrees with their model, and transmit that capacity to someone else — is not replaceable. Not by another person, and not by a machine. Because what they carry is not information. It is judgment. And judgment is only built one way.
+
+	Do you truly UNDERSTAND, or do you only grasp the literal meaning?
+
+This framework exists because the gap between those two things is where most education stops — and where real learning begins.
+
+---
+
 ## Core Principles
 
 ### 1. Inhabitation over observation
@@ -136,7 +152,7 @@ Each entry follows the pattern:
 |---|---|---|
 | Amino acid side chain chemistry | Lehninger Ch. 3 or equivalent; Foldit/PyMOL visualization of residue | *Look at what that side chain actually looks like at pH 7. What does removing it change about anything nearby?* |
 | Active site electrostatics | Warshel 2006 review on electrostatic effects in enzymes | *If you change the charge at this position, what happens to the transition state stabilization? How would you know?* |
-| Hydrogen bond networks | Foldit/PyMOL H-bond display of WT active site | *Trace every hydrogen bond your target residue participates in. What breaks if you mutate it? What might compensate?* |
+| H-bond networks | Foldit/PyMOL H-bond display of WT active site | *Trace every hydrogen bond your target residue participates in. What breaks if you mutate it? What might compensate?* |
 | Michaelis-Menten assumptions | Fersht *Structure and Mechanism in Protein Science* Ch. 4 | *Under what conditions does the Michaelis-Menten model break down? Is your experiment inside those conditions?* |
 | Substrate binding geometry | PDB structure of BglB with substrate analog; Ligplot+ | *Where does the substrate sit relative to the catalytic residues? What does your mutation change about that geometry?* |
 | Thermal stability and ΔTm | Niesen et al. 2007 (DSF protocol paper) | *Your mutant has a lower Tm. What are the possible explanations? Which ones would change your interpretation of the kinetics?* |
