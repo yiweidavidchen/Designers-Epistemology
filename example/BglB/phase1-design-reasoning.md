@@ -1,6 +1,6 @@
 # Phase 1 Design Reasoning — BglB Substrate Specificity
  
-**Project:** β-Glucosidase B (BglB) substrate specificity via active-site mutagenesis
+	**Project:** β-Glucosidase B (BglB) substrate specificity via active-site mutagenesis
 
 **Phase:** Catalytic and catalytic-adjacent residues.
 
@@ -127,15 +127,20 @@ Done. Five substrates. One reference. Two axes of structural variation. Two nega
 
 <img width="1053" height="954" alt="image" src="https://github.com/user-attachments/assets/03be0810-68d3-4447-b26a-010e11d6ce7a" />
 
+**And an early screenshot of substrate selection:**
+
+<img width="1101" height="996" alt="image" src="https://github.com/user-attachments/assets/cd952f89-79de-4c6b-a6ea-4f7ab4ec2c8e" />
+
+
 ### Why not a fourth positive sugar?
  
 A fourth positive sugar — pNP-β-D-fucopyranoside (**pNP-Fuc**) was a candidate — was considered and dropped. The primary purpose of Phase 1 was presentation at the URC conference, which imposed a real deadline in Feb 2026 for abstract submission. More importantly, the viable window for kinetic assays is only 2 days after protein purification. Assaying across more substrates within that window, with 8 concentrations × 4 proteins × 3 replicates per protein, was not executable for one person working alone without compromising either the data quality or their sanity.
  
-*Scope decisions in research are not always about what is scientifically optimal. They are about what is executable given real constraints — time, labor, deadlines. Knowing when to stop adding variables and commit to what is interpretable and doable is part of the designer's judgment, not a failure of ambition.*
+> Scope decisions in research are not always about what is scientifically optimal. They are about what is executable given real constraints — time, labor, deadlines. Knowing when to stop adding variables and commit to what is interpretable and doable is part of the designer's judgment, not a failure of ambition.
  
 pNP-Fuc and other sugars — pNP-Fuc probes the C6 methyl (-CH3) vs. hydroxymethyl (-CH2OH) distinction — are candidates for the expanded substrate panel in Phase 2, where the team has more hands and more time.
  
-	Knowing when to step on the gas & when to step on the brake is a competency the designer develops under real resource constraints.
+> Knowing when to step on the gas & when to step on the brake is a competency the designer develops under real resource constraints.
 
 ---
  
